@@ -5,7 +5,7 @@
 ***
 
 ## About this project
-This project was created using the original dataset from the official Github [page] (https://allisonhorst.github.io/palmerpenguins/) as an assessment for the Principles of Data Analytics module at ATU.
+This project was created using the original dataset from the official Github [page](https://allisonhorst.github.io/palmerpenguins/) as an assessment for the Principles of Data Analytics module at ATU.
 
 ## Use of this project
 
@@ -17,8 +17,7 @@ The project is a helpful guide for beginners in data analysis, demonstrating bas
 
 To begin my project, please ensure that you have Python and [Visual Studio Code](https://code.visualstudio.com/) installed. 
 
-To open my project in Google colab you can use the [link](<a target="_blank" href="https://colab.research.google.com/github/Kate-217/principles_of_da/blob/main/penguins.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>) wich was generated with [Open in Colab](https://openincolab.com/)
+To open my project in Google colab you can use the [link](https://colab.research.google.com/github/Kate-217/principles_of_da/blob/main/penguins.ipynb) wich was generated with [Open in Colab](https://openincolab.com/)
 
 
 
