@@ -5,7 +5,9 @@
 ***
 
 ## About this project
-This project was created using the original dataset from the official Github [page](https://allisonhorst.github.io/palmerpenguins/) as an assessment for the Principles of Data Analytics module at ATU.
+
+This project was completed as an assessment for the Principles of Data Analytics module of the Higher Diploma in Science in Data Analytics at Atlantic Technological University using the original dataset from the official [GitHub page](https://allisonhorst.github.io/palmerpenguins/). The Palmer penguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica. As part of the analysis, some visualizations were created and several correlations were discovered.
+
 
 ## Use of this project
 
