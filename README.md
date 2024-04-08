@@ -17,14 +17,14 @@ The project is a helpful guide for beginners in data analysis, demonstrating bas
 
 ## Getting started
 
-To begin with my project, please ensure that you have Python and [Visual Studio Code](https://code.visualstudio.com/) installed. 
+To get to know with my project, please ensure that you have Python and [Visual Studio Code](https://code.visualstudio.com/) installed. 
+I worked on my analysis using Jupyter Notebook, but you can use a different editor to open it.
 
 To open my project with **Google colab** you can use the [link](https://colab.research.google.com/github/Kate-217/principles_of_da/blob/main/penguins.ipynb) wich was generated with [Open in Colab](https://openincolab.com/).
 
 It is necessary to install additional modules such as Numpy, Pandas, Matplotlib, and Seaborn. One of the easiest ways to obtain them is by installing [Anaconda](https://www.anaconda.com/download).
 
-
-
+The original dataset was taken from [here](https://allisonhorst.github.io/palmerpenguins/index.html).
 
 ## Getting help
 
