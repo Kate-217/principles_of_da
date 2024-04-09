@@ -18,7 +18,7 @@ The project is a helpful guide for beginners in data analysis, demonstrating bas
 ## Getting started
 
 To get to know with my project, please ensure that you have Python and [Visual Studio Code](https://code.visualstudio.com/) installed. 
-I worked on my analysis using Jupyter Notebook, but you can use a different editor to open it.
+I worked on my analysis using **Jupyter Notebook**, but you can use a different editor to open it.
 
 To open my project with **Google colab** you can use the [link](https://colab.research.google.com/github/Kate-217/principles_of_da/blob/main/penguins.ipynb) which was generated with [Open in Colab](https://openincolab.com/).
 
@@ -37,4 +37,15 @@ Feel free to contribute to my project by creating a new [pull request](https://g
 ## Author
 
 I'm a mature student eager to learn new skills, particularly interested in diving into data analysis.
+
+## References:
+https://www.w3schools.com/python/pandas/ref_df_isnull.asp
+https://stackoverflow.com/questions/51070985/find-out-the-percentage-of-missing-values-in-each-column-in-the-given-dataset
+https://www.kdnuggets.com/10-essential-pandas-functions-every-data-scientist-should-know
+
+
+## 
+**Disclaimer**:
+
+The style of writing in this project has been corrected and enhanced with the assistance of the GPT chat feature. GPT chat was utilized solely for refining the language of the content. The final content and decisions made in this project remain the responsibility of the author.
 
