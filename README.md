@@ -39,9 +39,11 @@ Feel free to contribute to my project by creating a new [pull request](https://g
 I'm a mature student eager to learn new skills, particularly interested in diving into data analysis.
 
 ## References:
+(1) https://note.nkmk.me/en/python-pandas-value-counts/
+(2) https://www.kdnuggets.com/10-essential-pandas-functions-every-data-scientist-should-know
 https://www.w3schools.com/python/pandas/ref_df_isnull.asp
 https://stackoverflow.com/questions/51070985/find-out-the-percentage-of-missing-values-in-each-column-in-the-given-dataset
-https://www.kdnuggets.com/10-essential-pandas-functions-every-data-scientist-should-know
+
 
 
 ## 
