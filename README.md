@@ -45,6 +45,7 @@ I'm a mature student eager to learn new skills, particularly interested in divin
 (4) https://pressbooks.library.upei.ca/montelpare/chapter/working-with-missing-data/
 (5) https://stackoverflow.com/questions/51070985/find-out-the-percentage-of-missing-values-in-each-column-in-the-given-dataset
 (6) https://www.datacamp.com/tutorial/how-to-make-a-seaborn-histogram
+(7) https://seaborn.pydata.org/generated/seaborn.histplot.html#seaborn-histplot
 
 
 
