@@ -55,8 +55,6 @@ Feel free to contribute to my project by creating a new [pull request](https://g
 8. [https://www.codecademy.com/resources/docs/matplotlib/pyplot/pie](https://www.codecademy.com/resources/docs/matplotlib/pyplot/pie)
 
 
-
-
 ## 
 **Disclaimer**:
 
