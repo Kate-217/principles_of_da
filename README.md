@@ -53,6 +53,7 @@ Feel free to contribute to my project by creating a new [pull request](https://g
 6. [https://www.datacamp.com/tutorial/how-to-make-a-seaborn-histogram](https://www.datacamp.com/tutorial/how-to-make-a-seaborn-histogram)
 7. [https://seaborn.pydata.org/generated/seaborn.histplot.html#seaborn-histplot](https://seaborn.pydata.org/generated/seaborn.histplot.html#seaborn-histplot)
 8. [https://www.codecademy.com/resources/docs/matplotlib/pyplot/pie](https://www.codecademy.com/resources/docs/matplotlib/pyplot/pie)
+9. [https://www.statology.org/seaborn-title/](https://www.statology.org/seaborn-title/)
 
 
 ## 
