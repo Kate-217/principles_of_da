@@ -42,7 +42,7 @@ Feel free to contribute to my project by creating a new [pull request](https://g
 
 ## Author
 
-Kate Lisovenko
+Kate Lisovenko,
 Atlantic Technological University Student (2024-2025)
 
 ## References:
