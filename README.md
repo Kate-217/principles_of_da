@@ -42,7 +42,8 @@ Feel free to contribute to my project by creating a new [pull request](https://g
 
 ## Author
 
-
+Kate Lisovenko
+Atlantic Technological University Student (2024-2025)
 
 ## References:
 1. [https://note.nkmk.me/en/python-pandas-value-counts/](https://note.nkmk.me/en/python-pandas-value-counts/)
