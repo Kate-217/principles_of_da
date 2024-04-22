@@ -53,7 +53,11 @@ Feel free to contribute to my project by creating a new [pull request](https://g
 6. [https://www.datacamp.com/tutorial/how-to-make-a-seaborn-histogram](https://www.datacamp.com/tutorial/how-to-make-a-seaborn-histogram)
 7. [https://seaborn.pydata.org/generated/seaborn.histplot.html#seaborn-histplot](https://seaborn.pydata.org/generated/seaborn.histplot.html#seaborn-histplot)
 8. [https://www.codecademy.com/resources/docs/matplotlib/pyplot/pie](https://www.codecademy.com/resources/docs/matplotlib/pyplot/pie)
-9. [https://www.statology.org/seaborn-title/](https://www.statology.org/seaborn-title/)
+9. [https://seaborn.pydata.org/archive/0.11/generated/seaborn.relplot.html](https://seaborn.pydata.org/archive/0.11/generated/seaborn.relplot.html)
+10. [https://www.statology.org/seaborn-title/](https://www.statology.org/seaborn-title/)
+11. [https://realpython.com/numpy-scipy-pandas-correlation-python/#example-numpy-correlation-calculation](https://realpython.com/numpy-scipy-pandas-correlation-python/#example-numpy-correlation-calculation)
+12. [https://pandas.pydata.org/docs/reference/api/pandas.plotting.scatter_matrix.html](https://pandas.pydata.org/docs/reference/api/pandas.plotting.scatter_matrix.html)
+13. [https://www.w3schools.com/python/pandas/pandas_correlations.asp#:~:text=The%20corr()%20method%20calculates,%3A%20](https://www.w3schools.com/python/pandas/pandas_correlations.asp#:~:text=The%20corr()%20method%20calculates,%3A%20)
 
 
 ## 
